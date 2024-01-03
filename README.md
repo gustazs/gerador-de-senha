@@ -15,3 +15,4 @@ Prosseguindo logo abaixo, haverá quatro botões para dizer ao programa o que é
 
 Após confirmar todas as informações, basta clicar com o mouse sobre o botão "Gerar" e sua senha aleatória será gerada. A cada clique, uma senha diferente é gerada, mesmo possuindo as mesmas características e tamanho.
 
+Link para acessar o projeto: https://gustazs.github.io/gerador-de-senha/
